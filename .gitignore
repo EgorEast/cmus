@@ -1,3 +1,6 @@
 cache
 command-history
 search-history
+lib.pl
+queue.pl
+resume
